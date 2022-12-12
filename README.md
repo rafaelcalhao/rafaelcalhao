@@ -1,4 +1,5 @@
-### Olá! sou o Rafael Calhao, desenvolvedor front-end e estudante de engenharia mecatrônica. <br/> Atualmente estudando front-end e back-end para me tornar um programador fullestack🙃
+### Olá! sou o Rafael Calhao.
+Sou desenvolvedor front-end e estudante de engenharia mecatrônica. <br/> Estou aprendendo sobre front-end e back-end com o intuito de me tornar um programador fullestack🙃
 
 <div align="center">
   <a href="https://github.com/rafaelcalhao">
