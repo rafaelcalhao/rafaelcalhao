@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! sou o Rafael Calhao.<br>Sou desenvolvedor front-end e estudante de engenharia mecatrônica.<br>Estou aprendendo sobre front-end e back-end com o intuito de me tornar um programador fullestack🙃
+Olá! sou o Rafael Calhao.<br>Sou desenvolvedor front-end e estudante de engenharia mecatrônica.<br>Estou aprendendo sobre front-end e back-end com o intuito de me tornar um programador full Stack🙃
 
 
 # 💻 Tech Stack:
